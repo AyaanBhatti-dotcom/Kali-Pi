@@ -53,7 +53,8 @@ Follow these simple steps to flash and configure your Kali Pi for headless use.
 
 ## Demo 
 
-(Coming soon)
+
+<img width="570" height="343" alt="Screenshot 2025-11-10 at 7 54 27 PM" src="https://github.com/user-attachments/assets/f4a7382b-24c5-4e84-98ba-6a2a79d318a7" />
 
 * 
 
